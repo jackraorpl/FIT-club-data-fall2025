@@ -36,7 +36,7 @@ To ensure a standardized and hassle-free environment for everyone, our official 
 ### 3. Master the Fundamentals
 Work through these curated tutorials to build your core skills. We've selected resources that are concise and high-impact.
 
--   **Python Fundamentals:** [Link to a concise Python basics tutorial]
+-   **Python Fundamentals:** [Link to a concise Python basics tutorial](https://youtu.be/Gx5qb1uHss4?si=WRsmDRfNoTgsO5vx)
 -   **Pandas for Data Manipulation:** [**Official "10 Minutes to pandas" Tutorial**](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 -   **Data Visualization with Seaborn:** [**Official Seaborn Introduction Tutorial**](https://seaborn.pydata.org/tutorial/introduction.html)
 -   **Introduction to Google Colab:** [Link to a short YouTube video tutorial]
