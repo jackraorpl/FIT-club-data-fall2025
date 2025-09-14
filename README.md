@@ -10,7 +10,7 @@ This program is designed for anyone with curiosity and a willingness to learn, r
 
 Our program is structured in two distinct phases. This model ensures that everyone has the foundational skills needed to contribute effectively to a team project.
 
--   **Phase 1: Onboarding & Competency Check (3 Weeks)**
+-   **Phase 1: Onboarding & Competency Check (2 Weeks)**
     -   You will work through a self-paced learning module to master the essential tools for data analysis. This phase concludes with **"Project 0,"** a standardized competency check that serves as your gateway to joining a project team.
 
 -   **Phase 2: Project Execution & Poster Session (8 Weeks)**
