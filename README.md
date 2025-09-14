@@ -72,7 +72,7 @@ This is your final onboarding step and serves as your application to a project t
     -   No. The onboarding path is designed to equip you with the necessary foundational skills. We only require your commitment to learning.
 
 -   **What is the expected time commitment?**
-    -   During onboarding (first 3 weeks), expect to spend 3-5 hours per week. During the project phase, expect 4-6 hours per week, including your weekly team meeting.
+    -   During onboarding (first 2 weeks), expect to spend 3-5 hours per week. During the project phase, expect 4-6 hours per week, including your weekly team meeting.
 
 -   **What tools do I need?**
     -   A computer with an internet connection, a web browser, and a Google account. That's it.
