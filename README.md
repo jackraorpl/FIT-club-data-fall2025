@@ -45,7 +45,7 @@ Work through these curated tutorials to build your core skills. We've selected r
 This is your final onboarding step and serves as your application to a project team. It is a straightforward analysis task designed to verify that you have mastered the fundamental skills from Step 3.
 
 -   **Action:**
-    1.  Go to the [**Project 0 GitHub Repository**](https://github.com/YOUR_USERNAME/project-0-fall2025).
+    1.  Go to the [**Project 0 GitHub Repository**](https://github.com/jackraorpl/project-0-fall2025).
     2.  Read the instructions in the `README.md` file carefully.
     3.  Complete the analysis in the provided `template.ipynb` notebook.
     4.  Submit the link to your finished Google Colab notebook via our submission form.
