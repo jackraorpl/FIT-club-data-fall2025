@@ -25,7 +25,7 @@ Follow these four steps to get started. All onboarding materials are free and ac
 ### 1. Join the Community on Discord
 This is our central hub for all communication, announcements, and help. It's the most important first step.
 
--   **Action:** [**Join our Discord Server**](https://discord.gg/YOUR_INVITE_LINK)
+-   **Action:** [**Join our Discord Server**](https://discord.gg/ZJBr5tnb53)
 -   Once you join, please introduce yourself in the `#introductions` channel!
 
 ### 2. Set Up Your Environment: Google Colab
@@ -84,4 +84,4 @@ This is your final onboarding step and serves as your application to a project t
 
 ## Questions?
 
-If you have any questions, the best place to ask is the `#onboarding-help` channel on our [**Discord Server**](https://discord.gg/YOUR_INVITE_LINK).
+If you have any questions, the best place to ask is the `#onboarding-help` channel on our [**Discord Server**](https://discord.gg/ZJBr5tnb53).
