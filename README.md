@@ -39,7 +39,7 @@ Work through these curated tutorials to build your core skills. We've selected r
 -   **Python Fundamentals:** [Link to a concise Python basics tutorial](https://youtu.be/Gx5qb1uHss4?si=WRsmDRfNoTgsO5vx)
 -   **Pandas for Data Manipulation:** [**Official "10 Minutes to pandas" Tutorial**](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 -   **Data Visualization with Seaborn:** [**Official Seaborn Introduction Tutorial**](https://seaborn.pydata.org/tutorial/introduction.html)
--   **Introduction to Google Colab:** [Link to a short YouTube video tutorial]
+-   **Introduction to Google Colab:** [Link to a short YouTube video tutorial](https://youtu.be/RLYoEyIHL6A?si=l2pSwXVZ-Sr9DCN3)
 
 ### 4. Complete "Project 0"
 This is your final onboarding step and serves as your application to a project team. It is a straightforward analysis task designed to verify that you have mastered the fundamental skills from Step 3.
