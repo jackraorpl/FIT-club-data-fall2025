@@ -57,12 +57,12 @@ This is your final onboarding step and serves as your application to a project t
 
 ## Program Timeline: Fall 2025
 
--   **Onboarding Period:** Monday, Sep 15 - Friday, Oct 3
--   **Project 0 Submission Deadline:** Friday, Oct 3
--   **Project Analyst Announcements:** Monday, Oct 6
--   **Team & Project Selection:** Monday, Oct 6 - Friday, Oct 10
--   **Project Execution Period:** Monday, Oct 13 - Friday, Dec 5
--   **End-of-Semester Poster Session:** Wednesday, Dec 10
+-   **Onboarding Period:** Monday, Sep 15 - Friday, Oct 10
+-   **Project 0 Submission Deadline:** Friday, Oct 10
+-   **Project Analyst Announcements:** Monday, Oct 13
+-   **Team & Project Selection:** Monday, Oct 13 - Friday, Oct 17
+-   **Project Execution Period:** Monday, Oct 17 - Friday, Nov 30
+-   **End-of-Semester Poster Session:** TBD, at week 10 Dec 1 ~ 5
 
 ---
 
